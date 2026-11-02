@@ -1,6 +1,6 @@
 {
-  "versionCode": 2725,
+  "versionCode": 2726,
   "versionName": "2.3",
-  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2725/KWI-2.3-final-2725.apk",
-  "note": "Today and Production Date are now separate. Historical reports retain their selected date."
+  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2726/KWI-2.3-final-2726.apk",
+  "note": "Compact device date, independent production calendar and App Info moved to navigation."
 }
