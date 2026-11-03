@@ -1,8 +1,8 @@
 {
-    "note":  "Required-update support, safe recovery of unsaved readings, and automated signed build publishing.",
+    "note":  "In-app APK download with progress and Android install button; APK identity, version and signing certificate verified before installation.",
     "versionName":  "2.3",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2741/KWI-2.3-build-2741.apk",
-    "versionCode":  2741,
-    "minSupportedVersionCode":  2741,
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2742/KWI-2.3-build-2742.apk",
+    "versionCode":  2742,
+    "minSupportedVersionCode":  2742,
     "forceUpdate":  true
 }
