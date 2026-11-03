@@ -1,6 +1,6 @@
 {
-  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2739/KWI-2.3-build-2739.apk",
-  "note": "Improved mobile header fitting and safer update checks. Calculations and historical reading mapping verified.",
-  "versionCode": 2739,
-  "versionName": "2.3"
+  "versionName": "2.3",
+  "note": "Compact username under logo, top-right theme toggle and larger device date.",
+  "versionCode": 2740,
+  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2740/KWI-2.3-build-2740.apk"
 }
