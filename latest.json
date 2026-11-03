@@ -1,6 +1,8 @@
 {
-  "versionName": "2.3",
-  "note": "Compact username under logo, top-right theme toggle and larger device date.",
-  "versionCode": 2740,
-  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2740/KWI-2.3-build-2740.apk"
+    "note":  "Required-update support, safe recovery of unsaved readings, and automated signed build publishing.",
+    "versionName":  "2.3",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2741/KWI-2.3-build-2741.apk",
+    "versionCode":  2741,
+    "minSupportedVersionCode":  2741,
+    "forceUpdate":  true
 }
