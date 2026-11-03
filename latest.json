@@ -1,6 +1,6 @@
 {
-  "versionCode": 2738,
-  "versionName": "2.3",
-  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2738/KWI-2.3-build-2738.apk",
-  "note": "Requested section order; historical reading mapping preserved; Master sign-in shortcut for Reading Safety."
+  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2739/KWI-2.3-build-2739.apk",
+  "note": "Improved mobile header fitting and safer update checks. Calculations and historical reading mapping verified.",
+  "versionCode": 2739,
+  "versionName": "2.3"
 }
