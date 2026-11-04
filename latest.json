@@ -1,8 +1,8 @@
 {
-    "note":  "Fix final Save and Share: independent WAPDA, CB and MDF meters no longer require exact equality. Removes obsolete 500-unit blocking checks while preserving reading safety and historical records.",
+    "note":  "Fix independent meter save checks. Preserve unfinished readings locally across app close/update; retain other unsaved shifts after partial saves. Clear stale update notices and request reopen after user-initiated APK installation.",
     "versionName":  "2.3",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2744/KWI-2.3-build-2744.apk",
-    "versionCode":  2744,
-    "minSupportedVersionCode":  2744,
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2745/KWI-2.3-build-2745.apk",
+    "versionCode":  2745,
+    "minSupportedVersionCode":  2745,
     "forceUpdate":  true
 }
