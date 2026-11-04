@@ -1,8 +1,8 @@
 {
-    "note":  "In-app APK download with progress and Android install button; APK identity, version and signing certificate verified before installation.",
+    "note":  "Optional line usage estimates: Line 1 (MDF1-CB)/Line 1 sheets, Line 2 (MDF-MDF1-CB)/Line 2 sheets. Shared Master toggle; original totals and historical records preserved.",
     "versionName":  "2.3",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2742/KWI-2.3-build-2742.apk",
-    "versionCode":  2742,
-    "minSupportedVersionCode":  2742,
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2743/KWI-2.3-build-2743.apk",
+    "versionCode":  2743,
+    "minSupportedVersionCode":  2743,
     "forceUpdate":  true
 }
