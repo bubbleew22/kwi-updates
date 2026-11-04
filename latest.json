@@ -1,8 +1,8 @@
 {
-    "note":  "Optional line usage estimates: Line 1 (MDF1-CB)/Line 1 sheets, Line 2 (MDF-MDF1-CB)/Line 2 sheets. Shared Master toggle; original totals and historical records preserved.",
+    "note":  "Fix final Save and Share: independent WAPDA, CB and MDF meters no longer require exact equality. Removes obsolete 500-unit blocking checks while preserving reading safety and historical records.",
     "versionName":  "2.3",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2743/KWI-2.3-build-2743.apk",
-    "versionCode":  2743,
-    "minSupportedVersionCode":  2743,
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2744/KWI-2.3-build-2744.apk",
+    "versionCode":  2744,
+    "minSupportedVersionCode":  2744,
     "forceUpdate":  true
 }
