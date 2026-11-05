@@ -1,8 +1,8 @@
 {
-  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2748/KWI-2.3-build-2748.apk",
-  "note": "Section-name changes now show all-user sync confirmation; existing report labels are preserved.",
-  "minSupportedVersionCode": 2745,
-  "versionCode": 2748,
   "forceUpdate": false,
+  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2749/KWI-2.3-build-2749.apk",
+  "minSupportedVersionCode": 2745,
+  "versionCode": 2749,
+  "note": "Renamed sections no longer appear as duplicate new rows in historical reports; new reports use current shared sections.",
   "versionName": "2.3"
 }
