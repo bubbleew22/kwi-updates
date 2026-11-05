@@ -1,8 +1,8 @@
 {
-    "note":  "Fix independent meter save checks. Preserve unfinished readings locally across app close/update; retain other unsaved shifts after partial saves. Clear stale update notices and request reopen after user-initiated APK installation.",
-    "versionName":  "2.3",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2745/KWI-2.3-build-2745.apk",
-    "versionCode":  2745,
-    "minSupportedVersionCode":  2745,
-    "forceUpdate":  true
+  "forceUpdate": false,
+  "versionName": "2.3",
+  "minSupportedVersionCode": 2745,
+  "versionCode": 2746,
+  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2746/KWI-2.3-build-2746.apk",
+  "note": "Improved sync safety and in-app APK updates."
 }
