@@ -1,8 +1,8 @@
 {
-  "forceUpdate": false,
-  "versionName": "2.3",
   "minSupportedVersionCode": 2745,
-  "versionCode": 2746,
-  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2746/KWI-2.3-build-2746.apk",
-  "note": "Improved sync safety and in-app APK updates."
+  "note": "Report conflicts now ask before replacing cloud; safety copies and cloud history are retained.",
+  "forceUpdate": false,
+  "versionCode": 2747,
+  "versionName": "2.3",
+  "downloadUrl": "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3-2747/KWI-2.3-build-2747.apk"
 }
