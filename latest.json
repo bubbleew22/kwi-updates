@@ -1,8 +1,8 @@
 {
     "note":  "KWI application update.",
-    "versionName":  "2.3.2",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3.2-2755/KWI-2.3.2-build-2755.apk",
-    "versionCode":  2755,
-    "minSupportedVersionCode":  2755,
+    "versionName":  "2.3.3",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3.3-2756/KWI-2.3.3-build-2756.apk",
+    "versionCode":  2756,
+    "minSupportedVersionCode":  2756,
     "forceUpdate":  true
 }
