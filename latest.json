@@ -1,8 +1,8 @@
 {
-    "note":  "KWI application update.",
-    "versionName":  "2.3.4",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v2.3.4-2757/KWI-2.3.4-build-2757.apk",
-    "versionCode":  2757,
-    "minSupportedVersionCode":  2757,
+    "note":  "KWI 3.0.1: MDF balance, login persistence, phone-friendly in-app updates; OCR removed.",
+    "versionName":  "3.0.1",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.1-2760/KWI-3.0.1-build-2760.apk",
+    "versionCode":  2760,
+    "minSupportedVersionCode":  2760,
     "forceUpdate":  true
 }
