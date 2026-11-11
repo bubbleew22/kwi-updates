@@ -1,8 +1,1 @@
-{
-    "note":  "Reconcile MDF total to MDF1 + Line 2 + Main Motor/Dryer 2 + Defi 2 LT; allocate WAPDA-CB remainder into Defi 1 LT.",
-    "versionName":  "3.0.3",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.3-2762/KWI-3.0.3-build-2762.apk",
-    "versionCode":  2762,
-    "minSupportedVersionCode":  2762,
-    "forceUpdate":  true
-}
+{"note":"Reconcile MDF total to MDF1 + Line 2 + Main Motor/Dryer 2 + Defi 2 LT; allocate WAPDA-CB remainder into Defi 1 LT.","versionName":"3.0.3","downloadUrl":"https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.3-2762/KWI-3.0.3-build-2762.apk","versionCode":2762,"minSupportedVersionCode":2761,"forceUpdate":false}
