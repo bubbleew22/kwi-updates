@@ -1,1 +1,8 @@
-{"note":"Reconcile MDF total to MDF1 + Line 2 + Main Motor/Dryer 2 + Defi 2 LT; allocate WAPDA-CB remainder into Defi 1 LT.","versionName":"3.0.3","downloadUrl":"https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.3-2762/KWI-3.0.3-build-2762.apk","versionCode":2762,"minSupportedVersionCode":2761,"forceUpdate":false}
+{
+    "note":  "MDF total reconciliation, optional update so app remains usable while downloading, and in-app APK download followed by Android user-confirmed install.",
+    "versionName":  "3.0.4",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.4-2763/KWI-3.0.4-build-2763.apk",
+    "versionCode":  2763,
+    "minSupportedVersionCode":  2761,
+    "forceUpdate":  false
+}
