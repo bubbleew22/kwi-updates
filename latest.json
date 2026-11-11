@@ -1,8 +1,8 @@
 {
-    "note":  "KWI 3.0.1: MDF balance, login persistence, phone-friendly in-app updates; OCR removed.",
-    "versionName":  "3.0.1",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.1-2760/KWI-3.0.1-build-2760.apk",
-    "versionCode":  2760,
-    "minSupportedVersionCode":  2760,
+    "note":  "Fix MDF total: MDF1 + Line 2 + Main Motor/Dryer 2 + Defi 2 LT; recalculate saved totals from meter readings.",
+    "versionName":  "3.0.2",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.2-2761/KWI-3.0.2-build-2761.apk",
+    "versionCode":  2761,
+    "minSupportedVersionCode":  2761,
     "forceUpdate":  true
 }
