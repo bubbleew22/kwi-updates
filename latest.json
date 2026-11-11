@@ -1,8 +1,8 @@
 {
-    "note":  "MDF total reconciliation, optional update so app remains usable while downloading, and in-app APK download followed by Android user-confirmed install.",
-    "versionName":  "3.0.4",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.4-2763/KWI-3.0.4-build-2763.apk",
-    "versionCode":  2763,
+    "note":  "KWI 3.0.5: private in-app APK download and Android install confirmation.",
+    "versionName":  "3.0.5",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.5-2764/KWI-3.0.5-build-2764.apk",
+    "versionCode":  2764,
     "minSupportedVersionCode":  2761,
     "forceUpdate":  false
 }
