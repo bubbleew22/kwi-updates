@@ -1,8 +1,8 @@
 {
-    "note":  "KWI 3.0.5: private in-app APK download and Android install confirmation.",
-    "versionName":  "3.0.5",
-    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.5-2764/KWI-3.0.5-build-2764.apk",
-    "versionCode":  2764,
-    "minSupportedVersionCode":  2761,
-    "forceUpdate":  false
+    "note":  "KWI application update.",
+    "versionName":  "3.0.8",
+    "downloadUrl":  "https://github.com/bubbleew22/kwi-updates/releases/download/v3.0.8-2767/KWI-3.0.8-build-2767.apk",
+    "versionCode":  2767,
+    "minSupportedVersionCode":  2767,
+    "forceUpdate":  true
 }
